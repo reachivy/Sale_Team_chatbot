@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Database
+chatbot.db
+
+# Logs
+*.log
+
+dist
+build
+flask_session
+start_app.spec
