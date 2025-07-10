@@ -1,0 +1,3 @@
+## For making application
+1 . activate venv (source /Users/juhi/Downloads/Sale_Team_chatbot/venv/bin/activate)
+2 . application making (pyinstaller --onedir --name ChatbotApp /Users/juhi/Downloads/Sale_Team_chatbot/chatbot_starter.py)
